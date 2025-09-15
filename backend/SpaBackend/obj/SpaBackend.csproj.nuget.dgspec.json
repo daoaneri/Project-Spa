@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SpaProject\\backend\\SpaBackend\\SpaBackend.csproj": {}
+    "C:\\Project-Spa\\backend\\SpaBackend\\SpaBackend.csproj": {}
   },
   "projects": {
-    "C:\\SpaProject\\backend\\SpaBackend\\SpaBackend.csproj": {
+    "C:\\Project-Spa\\backend\\SpaBackend\\SpaBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SpaProject\\backend\\SpaBackend\\SpaBackend.csproj",
+        "projectUniqueName": "C:\\Project-Spa\\backend\\SpaBackend\\SpaBackend.csproj",
         "projectName": "SpaBackend",
-        "projectPath": "C:\\SpaProject\\backend\\SpaBackend\\SpaBackend.csproj",
+        "projectPath": "C:\\Project-Spa\\backend\\SpaBackend\\SpaBackend.csproj",
         "packagesPath": "C:\\Users\\irena\\.nuget\\packages\\",
-        "outputPath": "C:\\SpaProject\\backend\\SpaBackend\\obj\\",
+        "outputPath": "C:\\Project-Spa\\backend\\SpaBackend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\irena\\AppData\\Roaming\\NuGet\\NuGet.Config"

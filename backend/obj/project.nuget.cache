@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wZ1M15ZEH7c=",
+  "dgSpecHash": "OrVd/qT+bsU=",
   "success": true,
-  "projectFilePath": "C:\\SpaProject\\backend\\backend.csproj",
+  "projectFilePath": "C:\\Project-Spa\\backend\\backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\irena\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.9\\microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
     "C:\\Users\\irena\\.nuget\\packages\\microsoft.extensions.apidescription.server\\9.0.0\\microsoft.extensions.apidescription.server.9.0.0.nupkg.sha512",

@@ -46,3 +46,12 @@ C:\SpaProject\backend\obj\Debug\net9.0\backend.AssemblyInfo.cs
 C:\SpaProject\backend\obj\Debug\net9.0\backend.csproj.CoreCompileInputs.cache
 C:\SpaProject\backend\obj\Debug\net9.0\backend.MvcApplicationPartsAssemblyInfo.cs
 C:\SpaProject\backend\obj\Debug\net9.0\backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Project-Spa\backend\obj\Debug\net9.0\backend.csproj.AssemblyReference.cache
+C:\Project-Spa\backend\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Project-Spa\backend\obj\Debug\net9.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project-Spa\backend\obj\Debug\net9.0\backend.AssemblyInfoInputs.cache
+C:\Project-Spa\backend\obj\Debug\net9.0\backend.AssemblyInfo.cs
+C:\Project-Spa\backend\obj\Debug\net9.0\backend.csproj.CoreCompileInputs.cache
+C:\Project-Spa\backend\obj\Debug\net9.0\backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Project-Spa\backend\obj\Debug\net9.0\backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Project-Spa\backend\obj\Debug\net9.0\backend.sourcelink.json
