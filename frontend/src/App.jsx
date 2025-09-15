@@ -11,7 +11,7 @@ const generateTimes = () => {
 };
 
 export default function App() {
-  const [services, setServices] = useState([]);       // state for backend data
+  const [services, setServices] = useState([]); // State for backend data
   const [booking, setBooking] = useState(null);
   const [submittedBookings, setSubmittedBookings] = useState([]);
   const fetched = useRef(false);

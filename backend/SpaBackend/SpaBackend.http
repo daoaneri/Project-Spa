@@ -1,6 +1,6 @@
 @SpaBackend_HostAddress = http://localhost:5064
 
-GET {{SpaBackend_HostAddress}}/weatherforecast/
+GET {{SpaBackend_HostAddress}}/spawebsite/
 Accept: application/json
 
 ###
