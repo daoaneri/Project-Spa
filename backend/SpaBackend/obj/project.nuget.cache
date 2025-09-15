@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WQNee5ewEMM=",
+  "success": true,
+  "projectFilePath": "C:\\SpaProject\\backend\\SpaBackend\\SpaBackend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\irena\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.9\\microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
+    "C:\\Users\\irena\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
